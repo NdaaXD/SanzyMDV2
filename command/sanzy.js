@@ -525,12 +525,12 @@ hydratedContentText: txt,
 hydratedButtons: [{
 urlButton: {
 displayText: 'Res Api',
-url: 'https://sanzykey.herokuapp.com/api'
+url: ''
 }
 }, {
 urlButton: {
 displayText: 'Youtube',
-url: 'https://youtube.com/c/sanzyyt/'
+url: ''
 }
 }, {
 quickReplyButton: {
